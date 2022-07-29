@@ -1,0 +1,51 @@
+#screen{
+    background-color:#FAF7FD;
+  }
+  #imgpeople{
+    width:200px;
+    height:200px;
+    border: 2px solid #BB99DD;
+    border-radius: 50%;
+    margin-top:20px;
+  }
+  #textpeople{
+    width: 99px;
+    height: 24x;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #link1{
+    font-family: 'Poppins', sans-serif;
+    font-size:27px;
+    width: 326px;
+    height: auto;
+    border: 2px solid #BB99DD;
+    margin: 16px auto;
+  }
+  #link2{
+    font-family: 'Poppins', sans-serif;
+    font-size:27px;
+    width: 326px;
+    height: auto;
+    border: 2px solid #BB99DD;
+    margin: 16px auto;
+  }
+  #link3{
+    font-family: 'Poppins', sans-serif;
+    font-size:27px;
+    width: 326px;
+    height: auto;
+    border: 2px solid #BB99DD;
+    margin: 16px auto;
+  }
+  #icon1 {
+    margin: 0 5px;
+  }
+  #icon2 {
+    margin: 0 5px;
+  }
+  #icon3 {
+    margin: 0 5px;
+  }

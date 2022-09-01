@@ -1,5 +1,4 @@
-# Desafio02SocialTreeRocketseat
-Repositório feito com base no desafio SocialTree encontrado no curso Discorver da Rocketseat.
+O projeto é a resolução do desafio Social Tree disponível no curso Discover da Rocketseat. O projeto consiste em uma página com uma lista de links (menu) que pode ser usada em perfis de redes sociais para direcionar o usuário para o local escolhido.
 <br>
 Link de visualização: https://socialtree-raulrodmo.netlify.app/
 <br>

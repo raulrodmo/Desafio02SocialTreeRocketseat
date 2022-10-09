@@ -4,7 +4,7 @@ Link de visualização: https://socialtree-raulrodmo.netlify.app/
 <br>
 Abaixo temos uma imagem expositava:
 ![image](https://user-images.githubusercontent.com/102265187/185271340-04f1a47c-85d3-44ef-89dd-45027939ab80.png)
-#### Programming Languages
+#### Programming languages used
 <div>
       <a href="https://github.com/raulrodmo">
             <img id="html" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="60" height="60"/>

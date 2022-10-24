@@ -1,14 +1,14 @@
 #screen{
     background-color:#FAF7FD;
   }
-  #imgpeople{
+  #img_people{
     width:200px;
     height:200px;
     border: 2px solid #BB99DD;
     border-radius: 50%;
     margin-top:20px;
   }
-  #textpeople{
+  #text_people{
     width: 99px;
     height: 24x;
     font-family: 'Poppins', sans-serif;
